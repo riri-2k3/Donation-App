@@ -50,3 +50,6 @@ Github_id: vasusingla545
 
 Name:Satvik Dubey
 Github_id: Satvik7773
+
+Name:Hrishika Singh
+Github_id: riri-2k3
